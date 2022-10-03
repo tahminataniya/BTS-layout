@@ -1,0 +1,22 @@
+.header,.hero,.body,.bar,.footer{
+	margin-bottom: 10px;
+	background-color: teal;
+}
+h2{
+    text-transform: capitalize;
+    color: white;
+}
+.box{
+	margin: 10px 0;
+	min-height: 80px;
+	background-color: red;
+   font-size: 30px;
+	color: white;
+}
+.last{
+	background-color: aqua;
+	color: black;
+}
+.b_last{
+	background-color: green;
+}
